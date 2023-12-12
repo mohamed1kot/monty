@@ -3,11 +3,11 @@
 
 ## Resources
 
-- Google
-- How do I use extern to share variables between source files in C?
-- Stacks and Queues in C
-- Stack operations
-- Queue operations
+- [Google](https://intranet.alxswe.com/rltoken/tn1X658KGumYYq_szFJI5w)
+- [How do I use extern to share variables between source files in C?](https://intranet.alxswe.com/rltoken/0KVWTdE8xXy__jUfBfakCw)
+- [Stacks and Queues in C](https://intranet.alxswe.com/rltoken/udmomL4F4mF630D2Z-ltqg)
+- [Stack operations](https://intranet.alxswe.com/rltoken/fj_-SJXW-pWxgAnstsARoQ)
+- [Queue operations](https://intranet.alxswe.com/rltoken/6Y_GVoIH_rV45xd7w0a9FA)
 
 ## General
 
@@ -33,7 +33,7 @@
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=c89
 - All your files should end with a new line
 - A README.md file, at the root of the folder of the project is mandatory
-- Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+- Your code should use the Betty style. It will be checked using [betty-style.pl](https://github.com/alx-tools/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
 - You allowed to use a maximum of one global variable
 - No more than 5 functions per file
 - You are allowed to use the C standard library
@@ -88,7 +88,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 ```
 - Any output must be printed on stdout
 - Any error message must be printed on stderr
-	- Here is a link to a GitHub repository that could help you making sure your errors are printed on stderr
+	- [Here is a link to a GitHub repository](https://intranet.alxswe.com/rltoken/NUGvCZqs609VjEHeutkICw) that could help you making sure your errors are printed on stderr
 
 ## Tests
 - We strongly encourage you to work all together on a set of tests
